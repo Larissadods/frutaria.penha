@@ -1,0 +1,41 @@
+header{
+    background: #efb475;
+    padding: 15px 750px 60px;
+     
+}
+
+#logo{
+    width: 94%;
+    margin-left: -740px;
+}
+
+.produtos{
+    background-color:#f18f28;
+    padding-bottom: 30px;
+    padding-left: 150px;
+    
+}
+
+h1{
+    font-size: 35px;
+    color: white;
+    font-family: "Arimo", sans-serif;
+}
+
+.container{
+      padding-left: 150px;
+     
+}
+
+.container li {
+   
+	display: inline-block;
+	text-align: center;
+	width: 20%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 10px 200px 50px;
+    padding-left: 50px;
+	box-sizing: border-box;
+	border: 2px solid #0a491d;
+}
