@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
+
 header{
     background: #efb475;
     padding: 15px 750px 60px;
@@ -11,31 +13,31 @@ header{
 
 .produtos{
     background-color:#f18f28;
-    padding-bottom: 30px;
+    padding-top: -290px;
+    padding-bottom: 15px;
     padding-left: 150px;
     
 }
 
 h1{
-    font-size: 35px;
+    padding-top: 10px;
+    font-size: 50px;
     color: white;
     font-family: "Arimo", sans-serif;
 }
+.bordas {
+    
+    padding-bottom: 120px; 
+    display: flex; 
+    gap: 80px; 
+    justify-content: 
+    space-around; 
+    justify-content: center; 
+} 
 
-.container{
-      padding-left: 150px;
-     
-}
-
-.container li {
+.retangulo { 
    
-	display: inline-block;
-	text-align: center;
-	width: 20%;
-	vertical-align: top;
-	margin: 0 1.5%;
-	padding: 10px 200px 50px;
-    padding-left: 50px;
-	box-sizing: border-box;
-	border: 2px solid #0a491d;
-}
+    width: 270px; 
+    height: 260px;
+    border: 2px solid #3caa5d;
+ }
