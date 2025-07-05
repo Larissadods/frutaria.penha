@@ -1,43 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400..700;1,400..700&display=swap');
 
-header{
-    background: #efb475;
-    padding: 15px 750px 60px;
-     
+body{
+    background-color: white;
 }
 
-#logo{
-    width: 94%;
-    margin-left: -740px;
-}
+.bordas {
+    padding-bottom: 10px;
+    padding-top: 20px;
+    display: flex;
+    gap: 40px;
+    justify-content: space-around;
+    justify-content: center;
 
-.produtos{
-    background-color:#f18f28;
-    padding-top: -290px;
-    padding-bottom: 15px;
-    padding-left: 150px;
-    
+}
+.retangulo {
+    border-radius: 10px;
+    width: 13%;
+    height: 205px;
+    background-color: #b8b8b8;
+  
 }
 
 h1{
-    padding-top: 10px;
-    font-size: 50px;
-    color: white;
-    font-family: "Arimo", sans-serif;
-}
-.bordas {
-    
-    padding-bottom: 120px; 
-    display: flex; 
-    gap: 80px; 
-    justify-content: 
-    space-around; 
-    justify-content: center; 
-} 
 
-.retangulo { 
+    margin: 60px 5em;
+    font-size: 50px;
+    color: black;
    
-    width: 270px; 
-    height: 260px;
-    border: 2px solid #3caa5d;
- }
+    
+}
+
+hr{
+    width: 66%;
+    color: white;
+    background-color: black;
+    margin-top: -23px;
+    margin-left: 265px;
+    padding-top: 5px;
+}
