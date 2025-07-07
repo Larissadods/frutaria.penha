@@ -19,7 +19,7 @@ body{
 .retangulo {
     border-radius: 10px;
     width: 12%;
-    height: 185px;
+    height: 195px;
     background-color: #ffffff;
     cursor: pointer;
 }
@@ -49,7 +49,7 @@ hr{
 #maca{
     width: 50%;
     margin-top: 20px;
-    margin-left: 48px;
+    margin-left: 68px;
 }
 
 #p-maca{
@@ -66,8 +66,8 @@ hr{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin: 20px 0;
-    margin-left: 100px;
+    margin: 5px 0;
+    margin-left: 124px;
 
     
 }
@@ -82,8 +82,7 @@ hr{
 }
 
 .aviso{
-   margin: 60px 25em;
-   width: 45%;
+   margin: 60px 35em;
    font-size: 18px;
    font-family: "Open Sans", sans-serif;
 }
@@ -153,8 +152,8 @@ strong{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin: 7px 0;
-    margin-left: 102px;
+    margin: -5px 0;
+    margin-left: 124px;
 
 }
 
@@ -164,8 +163,8 @@ strong{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin: 8px 0;
-    margin-left: 100px;
+    margin: -8px 0;
+    margin-left: 124px;
 
 }
 
@@ -175,8 +174,8 @@ strong{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin: 4px 0;
-    margin-left: 100px;
+    margin: -14px 0;
+    margin-left: 124px;
 
 }
 
@@ -186,8 +185,8 @@ strong{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin-top: 28px;
-    margin-left: 100px;    
+    margin-top: 10px;
+    margin-left: 124px;    
 }
 
 .container-tangerina{
@@ -196,8 +195,8 @@ strong{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin: 1px 0;
-    margin-left: 100px;
+    margin: -20px 0;
+    margin-left: 124px;
 
 }
 
@@ -207,8 +206,8 @@ strong{
     height: 6vh;
     border-radius: 10px;
     text-align: center;
-    margin: 5px 0;
-    margin-left: 100px;
+    margin: -15px 0;
+    margin-left: 124px;
 
 }
 
