@@ -13,6 +13,7 @@ body{
     gap: 40px;
     justify-content: space-around;
     justify-content: center;
+    cursor: pointer;
 
 }
 .retangulo {
@@ -20,28 +21,28 @@ body{
     width: 12%;
     height: 195px;
     background-color: #ffffff;
-  
+    cursor: pointer;
 }
 
 h1{
 
     margin: 55px 80px;
-    font-size: 53px;
+    font-size: 60px;
     color: #0A491D;
 }
 
 #h-h{
     margin: 30px 444px;
-    font-size: 34px;
+    font-size: 50px;
     color: #0A491D;
 }
 
 hr{
-    width: 84%;
+    width: 75%;
     color: #0A491D;
     background-color:#0A491D;
-    margin-top: -18px;
-    margin-left: 170px;
+    margin-top: -20px;
+    margin-left: 260px;
     padding-top: 5px;
 }
 
