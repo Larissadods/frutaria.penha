@@ -8,7 +8,7 @@ body{
 
 .bordas {
     padding-bottom: 10px;
-    padding-top: 20px;
+    padding-top: 30px;
     display: flex;
     gap: 40px;
     justify-content: space-around;
@@ -31,17 +31,17 @@ h1{
 }
 
 #h-h{
-     margin: 45px 290px;
+    margin: 30px 444px;
     font-size: 34px;
     color: #0A491D;
 }
 
 hr{
-    width: 70%;
+    width: 84%;
     color: #0A491D;
     background-color:#0A491D;
     margin-top: -18px;
-    margin-left: 255px;
+    margin-left: 170px;
     padding-top: 5px;
 }
 
@@ -102,4 +102,44 @@ strong{
     padding-top: 45px;
     font-size: 23px;
     font-family: "Open Sans", sans-serif;
+}
+
+#melao{
+   width: 54%;
+   margin: 15px 45px;
+}
+
+#banana-maca{
+    width: 64%;
+    margin: 15px 45px;
+}
+
+#uva-verde{
+    width: 54%;
+   margin: 15px 55px;
+}
+
+#tangerina{
+    width: 50%;
+   margin: 15px 55px;
+}
+
+#banana-caturra{
+    width: 47%;
+   margin: 15px 63px;
+}
+
+#goiaba{
+    width: 44%;
+   margin: 15px 64px;
+}
+
+#morango{
+    width: 44%;
+    margin: 5px 58px;
+}
+
+#limao{
+    width: 44%;
+   margin: 15px 65px;
 }
