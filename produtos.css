@@ -6,6 +6,18 @@ body{
     background-color: #F0F0F0;
 }
 
+header{
+    
+   width: 100%;
+   background: url(video.mp4);
+   display: flex;
+}
+
+video{
+    width: 100%;
+    z-index: 1;
+}
+
 .bordas {
     padding-bottom: 10px;
     padding-top: 30px;
