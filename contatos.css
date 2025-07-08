@@ -1,5 +1,58 @@
-body{
-
-    background-color: #efb475;
-    color: #fff;
+links{
+    gap: 100px;
+    text-align: left;
+    display: flex;
+    background:#0A6936;
+    margin: -5px 0;
+    padding: 10px 330px;
+    height: 15px;
+    font-size: 17px;
 }
+
+a{
+    gap: 300px;
+    color: aliceblue;
+    font-family: "Playfair Display", serif;
+    font-size: 5px;
+    margin-bottom: -5px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+     color: green;
+}
+
+.video {
+    width: 100%;
+    height: 100%;
+  }
+
+.imagem-sobreposta {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+    width: 25%;
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px;
+  }
+
+  .contatos-1 img{
+    align-items: center;
+    width: 34%;
+    gap: 5px;
+    margin: 90px 185px;
+    padding-left: 250px;
+  }
+
+  iframe{
+     align-items: center;
+     padding: 10px 30px;
+     width: 50%;
+  }
+
